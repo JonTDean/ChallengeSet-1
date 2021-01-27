@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using EvenNums;
 
 namespace EvenNumsTest
 {
@@ -6,7 +7,7 @@ namespace EvenNumsTest
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void firstTest()
         {
         }
     }
